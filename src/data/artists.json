@@ -1,0 +1,282 @@
+﻿[
+  {
+    "id": 1,
+    "name": "Ari Prism",
+    "avatar": "/images/avatars/avatar-ari.svg",
+    "specialties": ["Character Design", "Concept Art"],
+    "bio": "Ari cria personagens expressivos para jogos narrativos, com foco em silhueta, figurino e personalidade visual.",
+    "location": "Sao Paulo, Brasil",
+    "email": "ari.prism@artfolio.dev",
+    "featured": true,
+    "social": {
+      "instagram": "https://instagram.com/ariprism",
+      "twitter": "https://twitter.com/ariprism",
+      "artstation": "https://artstation.com/ariprism"
+    },
+    "gallery": [
+      {
+        "id": 101,
+        "title": "Guardia Nebula",
+        "image": "/images/artworks/artwork-01.svg",
+        "category": "Character Design"
+      },
+      {
+        "id": 102,
+        "title": "Ritual de Luz",
+        "image": "/images/artworks/artwork-02.svg",
+        "category": "Concept Art"
+      },
+      {
+        "id": 103,
+        "title": "Tripulante Aurora",
+        "image": "/images/artworks/artwork-03.svg",
+        "category": "Character Design"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mika Byte",
+    "avatar": "/images/avatars/avatar-mika.svg",
+    "specialties": ["Pixel Art", "UI Game Art"],
+    "bio": "Mika transforma sistemas de jogos em interfaces claras e memoraveis, usando pixel art, HUDs e microanimacoes.",
+    "location": "Recife, Brasil",
+    "email": "mika.byte@artfolio.dev",
+    "featured": true,
+    "social": {
+      "instagram": "https://instagram.com/mikabyte",
+      "twitter": "https://twitter.com/mikabyte",
+      "artstation": "https://artstation.com/mikabyte"
+    },
+    "gallery": [
+      {
+        "id": 201,
+        "title": "Mercado 16 Bits",
+        "image": "/images/artworks/artwork-04.svg",
+        "category": "Pixel Art"
+      },
+      {
+        "id": 202,
+        "title": "HUD Reactor",
+        "image": "/images/artworks/artwork-05.svg",
+        "category": "UI Game Art"
+      },
+      {
+        "id": 203,
+        "title": "Mapa Cristalino",
+        "image": "/images/artworks/artwork-06.svg",
+        "category": "Pixel Art"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Noah Vale",
+    "avatar": "/images/avatars/avatar-noah.svg",
+    "specialties": ["Environment Art", "Concept Art"],
+    "bio": "Noah desenvolve cenarios atmosfericos para mundos de fantasia, com composicoes amplas e leitura cinematografica.",
+    "location": "Florianopolis, Brasil",
+    "email": "noah.vale@artfolio.dev",
+    "featured": true,
+    "social": {
+      "instagram": "https://instagram.com/noahvaleart",
+      "twitter": "https://twitter.com/noahvaleart",
+      "artstation": "https://artstation.com/noahvale"
+    },
+    "gallery": [
+      {
+        "id": 301,
+        "title": "Vale Submerso",
+        "image": "/images/artworks/artwork-07.svg",
+        "category": "Environment Art"
+      },
+      {
+        "id": 302,
+        "title": "Portao dos Ventos",
+        "image": "/images/artworks/artwork-08.svg",
+        "category": "Concept Art"
+      },
+      {
+        "id": 303,
+        "title": "Ruinas de Jade",
+        "image": "/images/artworks/artwork-09.svg",
+        "category": "Environment Art"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Lina Forge",
+    "avatar": "/images/avatars/avatar-lina.svg",
+    "specialties": ["Modelagem 3D", "Arte Digital"],
+    "bio": "Lina cria props, criaturas e materiais estilizados para experiencias 3D, equilibrando forma, textura e otimizacao.",
+    "location": "Belo Horizonte, Brasil",
+    "email": "lina.forge@artfolio.dev",
+    "featured": false,
+    "social": {
+      "instagram": "https://instagram.com/linaforge3d",
+      "twitter": "https://twitter.com/linaforge3d",
+      "artstation": "https://artstation.com/linaforge"
+    },
+    "gallery": [
+      {
+        "id": 401,
+        "title": "Totem Orbital",
+        "image": "/images/artworks/artwork-10.svg",
+        "category": "Modelagem 3D"
+      },
+      {
+        "id": 402,
+        "title": "Mascote Voxel",
+        "image": "/images/artworks/artwork-11.svg",
+        "category": "Modelagem 3D"
+      },
+      {
+        "id": 403,
+        "title": "Material Prisma",
+        "image": "/images/artworks/artwork-12.svg",
+        "category": "Arte Digital"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Kai Nova",
+    "avatar": "/images/avatars/avatar-kai.svg",
+    "specialties": ["NFT Art", "Arte Digital"],
+    "bio": "Kai explora colecoes digitais, composicoes generativas e series visuais com identidade forte para comunidades criativas.",
+    "location": "Curitiba, Brasil",
+    "email": "kai.nova@artfolio.dev",
+    "featured": false,
+    "social": {
+      "instagram": "https://instagram.com/kainova",
+      "twitter": "https://twitter.com/kainova",
+      "artstation": "https://artstation.com/kainova"
+    },
+    "gallery": [
+      {
+        "id": 501,
+        "title": "Colecao Flux",
+        "image": "/images/artworks/artwork-13.svg",
+        "category": "NFT Art"
+      },
+      {
+        "id": 502,
+        "title": "Chroma Mint",
+        "image": "/images/artworks/artwork-14.svg",
+        "category": "Arte Digital"
+      },
+      {
+        "id": 503,
+        "title": "Avatar Sintese",
+        "image": "/images/artworks/artwork-15.svg",
+        "category": "NFT Art"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Sofia Ink",
+    "avatar": "/images/avatars/avatar-sofia.svg",
+    "specialties": ["Ilustracao", "Fan Art"],
+    "bio": "Sofia mistura linhas limpas, cores vibrantes e narrativa visual para ilustracoes editoriais, fan arts e posters digitais.",
+    "location": "Porto Alegre, Brasil",
+    "email": "sofia.ink@artfolio.dev",
+    "featured": true,
+    "social": {
+      "instagram": "https://instagram.com/sofiaink",
+      "twitter": "https://twitter.com/sofiaink",
+      "artstation": "https://artstation.com/sofiaink"
+    },
+    "gallery": [
+      {
+        "id": 601,
+        "title": "Heroina Solar",
+        "image": "/images/artworks/artwork-16.svg",
+        "category": "Ilustracao"
+      },
+      {
+        "id": 602,
+        "title": "Poster Multiverso",
+        "image": "/images/artworks/artwork-17.svg",
+        "category": "Fan Art"
+      },
+      {
+        "id": 603,
+        "title": "Retrato Coral",
+        "image": "/images/artworks/artwork-18.svg",
+        "category": "Ilustracao"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Theo Sparks",
+    "avatar": "/images/avatars/avatar-theo.svg",
+    "specialties": ["Concept Art", "Environment Art"],
+    "bio": "Theo cria keyframes de acao, estudos de luz e exploracoes visuais para pitches de animacao e jogos independentes.",
+    "location": "Fortaleza, Brasil",
+    "email": "theo.sparks@artfolio.dev",
+    "featured": false,
+    "social": {
+      "instagram": "https://instagram.com/theosparks",
+      "twitter": "https://twitter.com/theosparks",
+      "artstation": "https://artstation.com/theosparks"
+    },
+    "gallery": [
+      {
+        "id": 701,
+        "title": "Cidade Relampago",
+        "image": "/images/artworks/artwork-19.svg",
+        "category": "Concept Art"
+      },
+      {
+        "id": 702,
+        "title": "Hangar de Chuva",
+        "image": "/images/artworks/artwork-20.svg",
+        "category": "Environment Art"
+      },
+      {
+        "id": 703,
+        "title": "Arena de Neon",
+        "image": "/images/artworks/artwork-21.svg",
+        "category": "Concept Art"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Bia Frame",
+    "avatar": "/images/avatars/avatar-bia.svg",
+    "specialties": ["UI Game Art", "Arte Digital"],
+    "bio": "Bia projeta telas, inventarios e sistemas visuais para jogos com foco em clareza, ritmo de uso e direcao de arte.",
+    "location": "Salvador, Brasil",
+    "email": "bia.frame@artfolio.dev",
+    "featured": false,
+    "social": {
+      "instagram": "https://instagram.com/biaframe",
+      "twitter": "https://twitter.com/biaframe",
+      "artstation": "https://artstation.com/biaframe"
+    },
+    "gallery": [
+      {
+        "id": 801,
+        "title": "Inventario Lumen",
+        "image": "/images/artworks/artwork-22.svg",
+        "category": "UI Game Art"
+      },
+      {
+        "id": 802,
+        "title": "Menu Astral",
+        "image": "/images/artworks/artwork-23.svg",
+        "category": "UI Game Art"
+      },
+      {
+        "id": 803,
+        "title": "Sistema Prisma",
+        "image": "/images/artworks/artwork-24.svg",
+        "category": "Arte Digital"
+      }
+    ]
+  }
+]
