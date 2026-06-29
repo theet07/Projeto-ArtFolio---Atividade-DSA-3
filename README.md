@@ -74,8 +74,20 @@ O projeto esta pronto para deploy em plataformas como Vercel. Apos publicar, adi
 URL do deploy: https://artfolio-ashy.vercel.app/
 ```
 
+## Atualizacoes pos-entrega
+
+Apos a entrega inicial do projeto, foram feitas as seguintes modificacoes manuais:
+
+### Substituicao de imagens mockadas por imagens reais
+
+- As imagens de avatares dos artistas, que eram SVGs gerados localmente em `public/images/avatars/`, foram substituidas por fotos reais no formato JPG, organizadas na pasta `public/Artistas/`.
+- As imagens das obras de arte, que eram SVGs gerados localmente em `public/images/artworks/`, foram substituidas por imagens reais no formato JPG, organizadas na pasta `public/Artes/`.
+- O arquivo `src/data/artists.json` foi atualizado para apontar os novos caminhos de imagens em `public/Artistas/` e `public/Artes/`.
+- As 4 imagens de preview do Hero (`src/components/Hero.jsx`) tambem foram atualizadas para usar imagens reais da pasta `public/Artes/`, escolhidas de forma a nao repetir as obras ja exibidas na secao de curadoria da Home.
+
 ## Observacoes
 
 - O projeto nao usa backend, banco de dados, autenticacao ou APIs externas.
 - Todos os artistas e obras sao carregados de `src/data/artists.json`.
-- As imagens usadas pela interface ficam em `public/images`.
+- As imagens de avatares dos artistas ficam em `public/Artistas/`.
+- As imagens das obras de arte ficam em `public/Artes/`.
