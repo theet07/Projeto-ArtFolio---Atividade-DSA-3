@@ -71,7 +71,7 @@ npm run build
 O projeto esta pronto para deploy em plataformas como Vercel. Apos publicar, adicione aqui a URL publica:
 
 ```txt
-URL do deploy: pendente
+URL do deploy: https://artfolio-ashy.vercel.app/
 ```
 
 ## Observacoes
