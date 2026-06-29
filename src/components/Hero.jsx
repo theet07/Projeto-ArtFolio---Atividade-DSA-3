@@ -3,10 +3,10 @@ import { Link } from 'react-router-dom'
 import Button from './Button.jsx'
 
 const previewImages = [
-  '/images/artworks/artwork-01.svg',
-  '/images/artworks/artwork-04.svg',
-  '/images/artworks/artwork-07.svg',
-  '/images/artworks/artwork-16.svg',
+  '/Artes/Environment_Art.jpg',
+  '/Artes/Fan_Art.jpg',
+  '/Artes/NFT_Art.jpg',
+  '/Artes/Arte_Digital.jpg',
 ]
 
 function Hero() {
