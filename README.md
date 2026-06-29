@@ -76,7 +76,7 @@ URL do deploy: https://artfolio-ashy.vercel.app/
 
 ## Atualizacoes pos-entrega
 
-Apos a entrega inicial do projeto, foram feitas as seguintes modificacoes manuais:
+Apos a entrega inicial feita pelo codex do projeto, foram feitas as seguintes modificacoes manuais:
 
 ### Substituicao de imagens mockadas por imagens reais
 
