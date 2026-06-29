@@ -1,0 +1,16 @@
+﻿<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="48" fill="url(#paint)"/>
+  <circle cx="180" cy="160" r="110" fill="white" fill-opacity="0.16"/>
+  <circle cx="760" cy="560" r="170" fill="black" fill-opacity="0.16"/>
+  <path d="M92 490C210 358 336 304 514 296C672 288 784 224 880 116" stroke="white" stroke-opacity="0.55" stroke-width="28" stroke-linecap="round"/>
+  <path d="M122 580C264 468 398 430 544 424C666 420 762 382 850 304" stroke="black" stroke-opacity="0.16" stroke-width="42" stroke-linecap="round"/>
+  <rect x="96" y="86" width="246" height="80" rx="24" fill="white" fill-opacity="0.18"/>
+  <text x="126" y="138" font-family="Arial, sans-serif" font-size="30" font-weight="800" fill="white">ART 23</text>
+  <text x="96" y="642" font-family="Arial, sans-serif" font-size="58" font-weight="800" fill="white">Astral</text>
+  <defs>
+    <linearGradient id="paint" x1="72" y1="40" x2="884" y2="668" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,13 @@
+﻿<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" rx="48" fill="url(#paint)"/>
+  <circle cx="74" cy="72" r="34" fill="white" fill-opacity="0.22"/>
+  <circle cx="174" cy="172" r="52" fill="black" fill-opacity="0.12"/>
+  <path d="M38 164C74 112 116 98 202 86" stroke="white" stroke-opacity="0.48" stroke-width="14" stroke-linecap="round"/>
+  <text x="120" y="136" text-anchor="middle" font-family="Arial, sans-serif" font-size="58" font-weight="800" fill="white">MB</text>
+  <defs>
+    <linearGradient id="paint" x1="28" y1="18" x2="214" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+</svg>
