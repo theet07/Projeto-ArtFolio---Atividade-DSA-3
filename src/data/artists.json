@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Ari Prism",
-    "avatar": "/images/avatars/avatar-ari.svg",
+    "avatar": "/Artistas/Ari_Prism.jpg",
     "specialties": ["Character Design", "Concept Art"],
     "bio": "Ari cria personagens expressivos para jogos narrativos, com foco em silhueta, figurino e personalidade visual.",
     "location": "Sao Paulo, Brasil",
@@ -17,19 +17,19 @@
       {
         "id": 101,
         "title": "Guardia Nebula",
-        "image": "/images/artworks/artwork-01.svg",
+        "image": "/Artes/Character_design.jpg",
         "category": "Character Design"
       },
       {
         "id": 102,
         "title": "Ritual de Luz",
-        "image": "/images/artworks/artwork-02.svg",
+        "image": "/Artes/Concept_Art.jpg",
         "category": "Concept Art"
       },
       {
         "id": 103,
         "title": "Tripulante Aurora",
-        "image": "/images/artworks/artwork-03.svg",
+        "image": "/Artes/Character Design2.jpg",
         "category": "Character Design"
       }
     ]
@@ -37,7 +37,7 @@
   {
     "id": 2,
     "name": "Mika Byte",
-    "avatar": "/images/avatars/avatar-mika.svg",
+    "avatar": "/Artistas/Mika_Byte.jpg",
     "specialties": ["Pixel Art", "UI Game Art"],
     "bio": "Mika transforma sistemas de jogos em interfaces claras e memoraveis, usando pixel art, HUDs e microanimacoes.",
     "location": "Recife, Brasil",
@@ -52,19 +52,19 @@
       {
         "id": 201,
         "title": "Mercado 16 Bits",
-        "image": "/images/artworks/artwork-04.svg",
+        "image": "/Artes/Pixel_Art.jpg",
         "category": "Pixel Art"
       },
       {
         "id": 202,
         "title": "HUD Reactor",
-        "image": "/images/artworks/artwork-05.svg",
+        "image": "/Artes/UI_Game_Art.jpg",
         "category": "UI Game Art"
       },
       {
         "id": 203,
         "title": "Mapa Cristalino",
-        "image": "/images/artworks/artwork-06.svg",
+        "image": "/Artes/Pixel_Art2.jpg",
         "category": "Pixel Art"
       }
     ]
@@ -72,7 +72,7 @@
   {
     "id": 3,
     "name": "Noah Vale",
-    "avatar": "/images/avatars/avatar-noah.svg",
+    "avatar": "/Artistas/Noah_Vale.jpg",
     "specialties": ["Environment Art", "Concept Art"],
     "bio": "Noah desenvolve cenarios atmosfericos para mundos de fantasia, com composicoes amplas e leitura cinematografica.",
     "location": "Florianopolis, Brasil",
@@ -87,19 +87,19 @@
       {
         "id": 301,
         "title": "Vale Submerso",
-        "image": "/images/artworks/artwork-07.svg",
+        "image": "/Artes/Environment_Art.jpg",
         "category": "Environment Art"
       },
       {
         "id": 302,
         "title": "Portao dos Ventos",
-        "image": "/images/artworks/artwork-08.svg",
+        "image": "/Artes/Concept_Art2.jpg",
         "category": "Concept Art"
       },
       {
         "id": 303,
         "title": "Ruinas de Jade",
-        "image": "/images/artworks/artwork-09.svg",
+        "image": "/Artes/Environment_Art2.jpg",
         "category": "Environment Art"
       }
     ]
@@ -107,7 +107,7 @@
   {
     "id": 4,
     "name": "Lina Forge",
-    "avatar": "/images/avatars/avatar-lina.svg",
+    "avatar": "/Artistas/Lina _Forge.jpg",
     "specialties": ["Modelagem 3D", "Arte Digital"],
     "bio": "Lina cria props, criaturas e materiais estilizados para experiencias 3D, equilibrando forma, textura e otimizacao.",
     "location": "Belo Horizonte, Brasil",
@@ -122,19 +122,19 @@
       {
         "id": 401,
         "title": "Totem Orbital",
-        "image": "/images/artworks/artwork-10.svg",
+        "image": "/Artes/Modelagem_3D.jpg",
         "category": "Modelagem 3D"
       },
       {
         "id": 402,
         "title": "Mascote Voxel",
-        "image": "/images/artworks/artwork-11.svg",
+        "image": "/Artes/Modelagem_3D2.jpg",
         "category": "Modelagem 3D"
       },
       {
         "id": 403,
         "title": "Material Prisma",
-        "image": "/images/artworks/artwork-12.svg",
+        "image": "/Artes/Arte_Digital.jpg",
         "category": "Arte Digital"
       }
     ]
@@ -142,7 +142,7 @@
   {
     "id": 5,
     "name": "Kai Nova",
-    "avatar": "/images/avatars/avatar-kai.svg",
+    "avatar": "/Artistas/Kai_Nova.jpg",
     "specialties": ["NFT Art", "Arte Digital"],
     "bio": "Kai explora colecoes digitais, composicoes generativas e series visuais com identidade forte para comunidades criativas.",
     "location": "Curitiba, Brasil",
@@ -157,19 +157,19 @@
       {
         "id": 501,
         "title": "Colecao Flux",
-        "image": "/images/artworks/artwork-13.svg",
+        "image": "/Artes/NFT_Art.jpg",
         "category": "NFT Art"
       },
       {
         "id": 502,
         "title": "Chroma Mint",
-        "image": "/images/artworks/artwork-14.svg",
+        "image": "/Artes/Arte_Digital2.jpg",
         "category": "Arte Digital"
       },
       {
         "id": 503,
         "title": "Avatar Sintese",
-        "image": "/images/artworks/artwork-15.svg",
+        "image": "/Artes/NFT_Art2.jpg",
         "category": "NFT Art"
       }
     ]
@@ -177,7 +177,7 @@
   {
     "id": 6,
     "name": "Sofia Ink",
-    "avatar": "/images/avatars/avatar-sofia.svg",
+    "avatar": "/Artistas/Sofia_Ink.jpg",
     "specialties": ["Ilustracao", "Fan Art"],
     "bio": "Sofia mistura linhas limpas, cores vibrantes e narrativa visual para ilustracoes editoriais, fan arts e posters digitais.",
     "location": "Porto Alegre, Brasil",
@@ -192,19 +192,19 @@
       {
         "id": 601,
         "title": "Heroina Solar",
-        "image": "/images/artworks/artwork-16.svg",
+        "image": "/Artes/Ilustracao.jpg",
         "category": "Ilustracao"
       },
       {
         "id": 602,
         "title": "Poster Multiverso",
-        "image": "/images/artworks/artwork-17.svg",
+        "image": "/Artes/Fan_Art.jpg",
         "category": "Fan Art"
       },
       {
         "id": 603,
         "title": "Retrato Coral",
-        "image": "/images/artworks/artwork-18.svg",
+        "image": "/Artes/Ilustracao2.jpg",
         "category": "Ilustracao"
       }
     ]
@@ -212,7 +212,7 @@
   {
     "id": 7,
     "name": "Theo Sparks",
-    "avatar": "/images/avatars/avatar-theo.svg",
+    "avatar": "/Artistas/Theo_Sparks.jpg",
     "specialties": ["Concept Art", "Environment Art"],
     "bio": "Theo cria keyframes de acao, estudos de luz e exploracoes visuais para pitches de animacao e jogos independentes.",
     "location": "Fortaleza, Brasil",
@@ -227,19 +227,19 @@
       {
         "id": 701,
         "title": "Cidade Relampago",
-        "image": "/images/artworks/artwork-19.svg",
+        "image": "/Artes/Concept_Art3.jpg",
         "category": "Concept Art"
       },
       {
         "id": 702,
         "title": "Hangar de Chuva",
-        "image": "/images/artworks/artwork-20.svg",
+        "image": "/Artes/Environment_Art3.jpg",
         "category": "Environment Art"
       },
       {
         "id": 703,
         "title": "Arena de Neon",
-        "image": "/images/artworks/artwork-21.svg",
+        "image": "/Artes/Concept_Art4.jpg",
         "category": "Concept Art"
       }
     ]
@@ -247,7 +247,7 @@
   {
     "id": 8,
     "name": "Bia Frame",
-    "avatar": "/images/avatars/avatar-bia.svg",
+    "avatar": "/Artistas/Bia_Frame.jpg",
     "specialties": ["UI Game Art", "Arte Digital"],
     "bio": "Bia projeta telas, inventarios e sistemas visuais para jogos com foco em clareza, ritmo de uso e direcao de arte.",
     "location": "Salvador, Brasil",
@@ -262,21 +262,23 @@
       {
         "id": 801,
         "title": "Inventario Lumen",
-        "image": "/images/artworks/artwork-22.svg",
+        "image": "/Artes/UI_Game_Art2.jpg",
         "category": "UI Game Art"
       },
       {
         "id": 802,
         "title": "Menu Astral",
-        "image": "/images/artworks/artwork-23.svg",
+        "image": "/Artes/UI_Game_Art3.jpg",
         "category": "UI Game Art"
       },
       {
         "id": 803,
         "title": "Sistema Prisma",
-        "image": "/images/artworks/artwork-24.svg",
+        "image": "/Artes/Arte_Digital3.jpg",
         "category": "Arte Digital"
       }
     ]
   }
 ]
+
+
